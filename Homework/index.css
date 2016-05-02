@@ -1,0 +1,37 @@
+﻿body {
+	background: #f0ffff;
+    font-family:  Arial, "Microsoft Jhenghei", sans-serif;
+    
+}
+a {
+	text-decoration: none;
+	color:#0E41E8;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+ul{
+    padding-left:20px;
+}
+li{
+     margin: auto auto 5px auto;
+}
+.textbox{
+    border-radius:4px;
+    border: 1px solid #ccc;
+    height:20px;
+    margin:5px auto auto auto;
+}
+.btn{
+    font-size:10px;
+    margin:5px auto auto auto;
+    padding:6px 10px 6px 10px;
+    border-radius:4px;
+    border:1px solid #cac5c5;
+    background-color: #fff;
+}
+.btn:hover{
+    background-color:#f5f3f3;
+    border-color: #cac5c5;
+}
