@@ -35,3 +35,8 @@ li{
     background-color:#f5f3f3;
     border-color: #cac5c5;
 }
+table, th, td {
+    border: 3px solid rgb(220, 226, 249);
+    border-collapse: collapse;
+    padding:6px 10px 6px 10px;
+}
