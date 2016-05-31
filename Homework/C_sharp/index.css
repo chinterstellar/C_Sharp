@@ -39,4 +39,5 @@ table, th, td {
     border: 3px solid rgb(220, 226, 249);
     border-collapse: collapse;
     padding:6px 10px 6px 10px;
+    margin :10px auto auto 0px;
 }
